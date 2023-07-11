@@ -4,7 +4,7 @@
 
 ## Description
 
-BLOG.IT is a content management system (CMS)-style blog site specifically designed for developers to publish articles, blog posts, and share their thoughts and opinions. It provides a user-friendly interface that simplifies the process of creating, editing, and managing blog posts, as well as engaging with other users through comments.
+BLOG.IT is a content management system (CMS)-style blog site designed for developers to publish articles, blog posts, and share their thoughts and opinions. It provides a user-friendly interface that simplifies the process of creating, editing, and managing blog posts, with the added ability of engaging with other users through a post commenting feature.
 
 ## Table of Contents
 
@@ -18,13 +18,17 @@ BLOG.IT is a content management system (CMS)-style blog site specifically design
 
 ## Features
 
-**User Authentication** Users can easily sign up and log in to the site, granting them access to the dashboard where they can create and manage their blog posts.
+**User Authentication** New Users will sign up to create an account and returning Users simply log on to the site to gain access to their personalized dashboard- Where they can create new posts, view all posts and manage their post history.
 
-**Homepage** The homepage serves as a central hub, displaying existing blog posts (if any) and providing convenient navigation links to the homepage itself, the dashboard, and the login/logout option.
+**Homepage** The homepage serves as a central hub, displaying any existing blog posts and providing convenient navigation to the homepage, the dashboard, and the login/logout functions.
 
-**Navigation** Users can seamlessly navigate through the site using the provided links. If they are not authenticated, they will be prompted to sign up or sign in to gain access to the full functionality.
+**Navigation** Authenticated Users can navigate through the site using the provided links.
 
-**Create and Edit Blog Posts** Authenticated users have the ability to create new blog posts by providing a title and content. They can also edit or delete their existing blog posts through the dashboard.
+**Post Function** Authenticated users can;
+
+1. create new blog posts by providing a title and content,
+2. edit existing posts,
+3. delete existing posts through the dashboard.
 
 **Comment System** Users can actively engage with the blog posts by leaving comments. Each comment includes the commenter's username and creation date, and they are displayed beneath the corresponding blog post.
 
