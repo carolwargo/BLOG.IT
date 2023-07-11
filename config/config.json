@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "!Newbeginnings2023",
+    "database": "blog_it_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
